@@ -14,7 +14,7 @@ public class JSONPlaceholderExercise {
      * @param postId - The ID of the post to fetch
      * @return String - The JSON response from the API
      */
-    public static String getPostById(Integer postId) {
+    public static String getPostById(Integer postId) { 
         // TODO: Student Implementation
         // 1. Create a new HTTP request
         HttpRequest req = new HttpRequest();
